@@ -2,8 +2,8 @@
 
 ### Hack and Dash
 
-Hack and Dash is an infinite scrolling mobile game i develuped using Unity and C#. In this game, the player is constantly moving vertically as well as horizontally, but they can control what direction they move horizontally. This takes place along differnt styles of paths with the goal being how far the player can go without touching a wall. Hack and dash is currently avalable on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ZestyGames.hackAndDash)
-![image](media/HaD1.png)
+Hack and Dash is an infinite scrolling mobile game i develuped using Unity and C#. In this game, the player is constantly moving vertically as well as horizontally, but they can control what direction they move horizontally. This takes place along differnt styles of paths with the goal being how far the player can go without touching a wall. Hack and dash is currently avalable on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ZestyGames.hackAndDash).
+![image](assets/img/HaD1.png)
 
 
 ### Stats Track
