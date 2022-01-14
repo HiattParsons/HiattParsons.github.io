@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Examples of My Past Personal Projects
 
-You can use the [editor on GitHub](https://github.com/HiattParsons/HiattParsons.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Hack and Dash
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hack and Dash is an infinite scrolling mobile game i develuped using Unity and C#. In this game, the player is constantly moving vertically as well as horizontally, but they can control what direction they move horizontally. This takes place along differnt styles of paths with the goal being how far the player can go without touching a wall. Hack and dash is currently avalable on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ZestyGames.hackAndDash)
+![image](media/HaD1.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Stats Track
 
-```markdown
-Syntax highlighted code block
+Windows Console application made with C# that periodically gets a string of JSON from a video games' website and seperates the string before putting the values into an ongoing excel sheet.
+![image](media/ST1.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Languages and Tools I Have an Understanding of 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HiattParsons/HiattParsons.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Java
+- C#
+- C
+- SQL
+- JavaScript 
+- HTML/CSS
+- windows macro/automation (AutoHotKey)
+- web browser automation (Selenium)
+- Unity game engine 
+- git
