@@ -6,7 +6,7 @@ Hack and Dash is an infinite scrolling mobile game i developed using Unity and C
 ![](/assets/images/HaD1.PNG)
 
 
-### Stats Track
+### OSRSTracker
 
 Windows Console application made with C# that periodically gets a string of JSON from a video games' website and separates the string before putting the values into an ongoing excel sheet.
 ![](/assets/images/ST1.PNG)
